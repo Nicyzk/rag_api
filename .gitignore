@@ -1,0 +1,10 @@
+ross_env/
+.env
+env/
+.DS_Store
+.vscode/
+Pipfile
+Pipfile.lock
+__pycache__/
+*sec-edgar-filings*
+pickled_data.pkl
